@@ -10,5 +10,4 @@ public class BaseActions {
         this.driver = driver;
         this.wait = wait;
     }
-
 }
