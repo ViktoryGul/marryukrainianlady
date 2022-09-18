@@ -1,4 +1,8 @@
 public class Data {
+    //Gallery
+    public static final String registrationDate = "Registration date";
+    public static final String registrationDateValue = "date_created";
+
     //Registration
 
     public static final String email = "vikaTest@gmail.com";

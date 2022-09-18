@@ -9,8 +9,6 @@ public class MainTests extends BaseUI {
         mainPage.clickJoinButton();
         registrationForm.completeFirstPartOfRegistration();
         registrationForm.completeSecondPartOfRegistration();
-
-
     }
 
 }
